@@ -11,7 +11,6 @@ print my_reverse
 print my_string
 
 if (is_palindrome(my_string, my_reverse)):
-    print("YEs")
+    print("YES")
 else:
-
-    print("No")
+    print("NO")
